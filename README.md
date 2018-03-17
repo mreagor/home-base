@@ -1,2 +1,3 @@
 # home-base
-Starter playground for code
+Starter testing ground for code
+Nothing here yet
